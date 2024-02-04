@@ -1,6 +1,30 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+# React Native Tic Tac Toe
+
+## Getting Started
+
+A simple Tic Tac Toe game built with React Native, utilizing React Native Icons for symbols and sound effects for moves.
+
+## Features
+
+- Play Tic Tac Toe against a friend.
+- React Native Icons used for "cross" and "circle" symbols.
+- Sound effects for each move - knife sound for "cross" and a specific sound for "circle".
+
+## Screenshots
+
+<img width="194" alt="tictactoe" src="https://github.com/ShubhamMaurya22/react-native-tic-tac-toe/assets/104679743/01d651cd-b746-45c6-96b6-24d983f06320">
+<img width="191" alt="tictactoe2" src="https://github.com/ShubhamMaurya22/react-native-tic-tac-toe/assets/104679743/c8b73806-3671-423a-9d43-7d54e575538c">
+
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ShubhamMaurya22/react-native-tic-tac-toe.git
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
