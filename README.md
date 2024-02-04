@@ -14,8 +14,9 @@ A simple Tic Tac Toe game built with React Native, utilizing React Native Icons 
 
 ## Screenshots
 
-<img width="194" alt="tictactoe" src="https://github.com/ShubhamMaurya22/react-native-tic-tac-toe/assets/104679743/01d651cd-b746-45c6-96b6-24d983f06320">
-<img width="191" alt="tictactoe2" src="https://github.com/ShubhamMaurya22/react-native-tic-tac-toe/assets/104679743/c8b73806-3671-423a-9d43-7d54e575538c">
+<img width="194" alt="tictactoe" src="https://github.com/ShubhamMaurya22/react-native-tic-tac-toe/assets/104679743/86adbde9-8bbf-4294-99a6-71054f282a7e">
+<img width="191" alt="tictactoe2" src="https://github.com/ShubhamMaurya22/react-native-tic-tac-toe/assets/104679743/bf56fe53-15cc-412f-bb82-007f329ba2f7">
+
 
 
 ## Installation
